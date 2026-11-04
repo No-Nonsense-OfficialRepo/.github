@@ -22,4 +22,5 @@ Independent software development focused on LAN gaming, networking, and practica
 **Built for function. Without the nonsense.**
 
 https://www.youtube.com/@NoNonsenseLAN
-discord.gg/a9NgtcnH5r
+
+https://discord.com/invite/a9NgtcnH5r
